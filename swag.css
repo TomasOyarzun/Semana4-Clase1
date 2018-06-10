@@ -1,3 +1,6 @@
+body{
+	margin: 0;
+}
 .banner{
 	background-image: url(images/bg.jpeg);
 	background-repeat: round;
@@ -13,6 +16,23 @@
 }
 .center-text{
 	text-align: center;
+}
+.space{
+	margin-top: 1%;
+}
+.space-two{
+	padding: 2%;
+}
+.border-section{
+	border-bottom: solid lightgrey 1px;
+	border-top: solid lightgrey 1px;
+}
+.footer{
+	background-color: black;
+	color: white;
+}
+.footer h5{
+	padding: 2%;
 }
 
 
